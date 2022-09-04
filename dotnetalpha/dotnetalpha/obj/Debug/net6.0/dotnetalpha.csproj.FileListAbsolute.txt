@@ -1,0 +1,15 @@
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/bin/Debug/net6.0/dotnetalpha
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/bin/Debug/net6.0/dotnetalpha.deps.json
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/bin/Debug/net6.0/dotnetalpha.runtimeconfig.json
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/bin/Debug/net6.0/dotnetalpha.dll
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/bin/Debug/net6.0/dotnetalpha.pdb
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.csproj.AssemblyReference.cache
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.AssemblyInfoInputs.cache
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.AssemblyInfo.cs
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.csproj.CoreCompileInputs.cache
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.dll
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/refint/dotnetalpha.dll
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.pdb
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/dotnetalpha.genruntimeconfig.cache
+/Users/npraglin/Desktop/Software Development/dotnetalpha/dotnetalpha/dotnetalpha/obj/Debug/net6.0/ref/dotnetalpha.dll
